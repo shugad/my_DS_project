@@ -1,2 +1,2 @@
-# data_fusion_2022
-Repo for Data Fusion Contest 2022.
+# my_DS_project
+Repo for Colab Notebook.
